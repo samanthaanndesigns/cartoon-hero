@@ -1,0 +1,81 @@
+body{
+	margin: 0;
+	font-family: helvetica, Arial, sans-serif;
+	font-size: 20px
+	line-height: 30px;
+}
+
+header{
+	background-color: darkorange;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+h1, h2{
+	font-family: 'Share Tech Mono', monospace;
+}
+
+header img{
+	border-radius: 187px;
+    width: 261px;
+    border: 18px solid white;
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px 20px 100px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: #e70c19;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: #e70c19;	
+}
+
+a:hover{
+	color: white;
+	background-color:#483a94;
+	font-size: 22px;
+}
+
+footer{
+	background-color: darkorange;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer P{
+	margin: 0;
+}
+
+
+footer a{
+	color: white;
+}
+
+
+footer a:hover{
+
+	opacity: .5;
+	background-color: transparent;
+}
+
+p.caption{
+	color: lightgray;
+	font-style: italic;
+	margin-top: 0;
+}
